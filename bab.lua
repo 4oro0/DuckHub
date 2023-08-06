@@ -1,4 +1,4 @@
- 
+                                                                                --Obfuscated By Sus Obfsucator
                                                                                 local v0=tonumber;     
                                                                         local v1=string.byte;local v2=string.char;local  
                                                                      v3=string.sub;local v4=string.gsub;local v5=string.rep;local  
